@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement_Binary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketBrowser", "MarketBrowser\MarketBrowser.csproj", "{473F9091-544A-4AD5-A4E6-22FE0C28C3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{5C36FE66-91CE-4FFE-8B2B-26B590343A8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github_test", "WindowsFormsApp1\github_test.csproj", "{5C36FE66-91CE-4FFE-8B2B-26B590343A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
