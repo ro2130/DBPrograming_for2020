@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("github!!","알림", MessageBoxButtons.OK,MessageBoxIcon.Error);
+            MessageBox.Show("github!!_pull","알림", MessageBoxButtons.OK,MessageBoxIcon.Error);
         }
     }
 }
